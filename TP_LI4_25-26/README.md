@@ -1,4 +1,6 @@
-# FlashStore — Sistema de Gestão de Ponto de Venda
+# FlashStore
+
+**Nota:** 16 — Sistema de Gestão de Ponto de Venda
 
 Projeto desenvolvido no âmbito da UC **Laboratórios de Informática IV (LI4)** — Licenciatura em Engenharia Informática, **Universidade do Minho**, ano letivo 2025/2026.
 
